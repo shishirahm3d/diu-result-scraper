@@ -6,7 +6,7 @@ The **DIU Result Scraper** is a web tool for Daffodil International University (
 
 ### Features:
 - **Fetch Results**: Allows students to fetch their academic results from DIU's official result portal.
-- **PNG Generation**: Generates a downloadable PNG image of the result, including courses, grades, and GPA.
+- **PNG Generation**: Generates a downloadable PNG image of the result, including courses, grades, and SGPA.
 - **Responsive Design**: Mobile-friendly design for viewing results on any device.
 - **Print Option**: Directly print the results from the browser.
 - **CORS Support**: Ensures that external resources, like the DIU logo, are correctly loaded.
