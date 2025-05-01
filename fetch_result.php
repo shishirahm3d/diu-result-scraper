@@ -62,7 +62,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (!$resultInfo) {
         echo json_encode([
             'success' => false,
-            'message' => 'Failed to fetch result information. The result may not be available yet or the teacher has not evaluated it.'
+            'message' => 'Failed to fetch result information. The result may not be available yet or the teacher has not evaluated it. Please check your Student ID and Semester and try again.'
         ]);
         exit;
     }

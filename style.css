@@ -231,6 +231,17 @@
     margin-top: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
   }
+
+/* PNG max width for consistency */
+  #printableArea {
+    width: 100%;
+    max-width: 1024px; 
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    box-sizing: border-box;
+    transform-origin: top left;
+  }
   
   /* Responsive adjustments */
   @media (max-width: 768px) {

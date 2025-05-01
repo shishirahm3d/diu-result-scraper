@@ -229,6 +229,7 @@ document.addEventListener("DOMContentLoaded", () => {
         logging: false,
         allowTaint: true,
         backgroundColor: "#6c757d",
+        windowWidth: 1592,
       })
       .then((canvas) => {
         const imgData = canvas.toDataURL("image/png");
