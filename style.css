@@ -127,7 +127,7 @@
   .student-info {
     background-color: #fff;
     border-radius: var(--border-radius);
-    padding: 20px;
+    padding: 12px;
     margin-bottom: 25px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
   }
@@ -238,7 +238,7 @@
     max-width: 1024px; 
     margin: auto;
     padding: 20px;
-    background-color: white;
+    background-color: var(--secondary-color);
     box-sizing: border-box;
     transform-origin: top left;
   }
