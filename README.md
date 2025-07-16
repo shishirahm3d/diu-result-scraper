@@ -1,4 +1,4 @@
-# DIU Result Scraper
+# DIU Result Scraper (Outdated)
 
 ## Overview
 
